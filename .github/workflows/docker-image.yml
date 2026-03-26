@@ -1,0 +1,18 @@
+跑：姓名
+
+在……之上：:
+推：:
+分支机构：["main"]: [ "主要" ]
+pull_request：:
+分支机构：["main"]: [ "主要" ]
+
+作业：:
+
+建立：:
+
+run-on:ubuntu-latest: Ubuntu-最新
+
+步骤：:
+-使用：操作/结帐@v4uses: 操作/结帐@v4
+-名称：构建Docker映像名: 构建Docker映像
+运行：Docker生成。--文件Dockerfile-标记my-image-name：$(日期+%s): Docker构建。--文件Dockerfile-tag my-image-name:$(日期+%s)
